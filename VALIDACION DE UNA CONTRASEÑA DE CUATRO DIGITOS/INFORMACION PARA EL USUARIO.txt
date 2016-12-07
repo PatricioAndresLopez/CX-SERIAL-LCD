@@ -1,0 +1,6 @@
+En este programa esta especificado al usuario mediante un mjs al inicio en la lcd
+que unicamente ingrese contraseña de cuatro caracteres, si ingresa mas puede 
+aperecer error por que aun falta filtros. 
+
+         ................LA CONTRASEÑA CORRECTA ES AL96..................... 
+
